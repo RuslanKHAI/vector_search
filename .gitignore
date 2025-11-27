@@ -29,4 +29,5 @@ models/
 .DS_Store
 Thumbs.db
 # UV
-.uv/
+.uv/hw_1/data/
+hw_1/results/
